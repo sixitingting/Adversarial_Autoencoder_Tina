@@ -33,16 +33,16 @@
 原作者提供的是 tensorflow 版本，这里我提供了  tensorflow （copy Naresh1318）和 pytorch 两种版本
 
 ## 如何使用代码
-![img.png](img.png)
+![image](https://user-images.githubusercontent.com/34053686/140005387-ed9adffe-f016-4fab-9ffa-ef68fc7f39e8.png)
 红框是我在 Naresh1318 的基础上新增的 torch 版本， 黄框是原作者的 tf 版本。
 
 - torch_version
-![img_1.png](img_1.png)
+![image](https://user-images.githubusercontent.com/34053686/140005413-0d7fc882-71fe-4e58-876c-48e2d4af1a05.png)
   
 这里面是 AE, AAE, SAAE 模型训练的代码
 
 - TorchResults
-![img_2.png](img_2.png)
+![image](https://user-images.githubusercontent.com/34053686/140005432-c631cfeb-defa-4284-a06c-978658c5e67f.png)
 所有的实验结果均保存在这个文件夹。我已经上传了三个模型训练好的模型，可以直接拿来测试。 
   Tensorboard的结果我没有上传，数据太大，如果需要，可以联系我。
   

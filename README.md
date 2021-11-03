@@ -1,6 +1,5 @@
-# Adversarial_Autoencoder_Tina
-Adversarial_Autoencoders手写数字识别， pytorch版本
 # 本教程来自 Tina 姐公众号【医学图像人工智能实战营】欢迎关注
+
 我们使用 MNIST 手写数字，测试通过自动编码器和对抗性自动编码器学习重建恢复效果。
 
 - 原始图像：
